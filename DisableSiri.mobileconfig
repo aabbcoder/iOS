@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>allowAssistant</key>
+				<false />
+				<key>allowSiriServerLogging</key>
+				<false />
+				<key>allowSpotlightInternetResults</key>
+				<false />
+				<key>PayloadDisplayName</key>
+				<string>Restrictions</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.applicationaccess.2c48a495-4fb0-43a9-9014-cd2239f1058b</string>
+				<key>PayloadType</key>
+				<string>com.apple.applicationaccess</string>
+				<key>PayloadUUID</key>
+				<string>0aef5425-73c9-430b-97a7-a5cb441a2bb9</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDisplayName</key>
+		<string>DisableSiri</string>
+		<key>PayloadIdentifier</key>
+		<string>PC-AB.7f70a268-1330-4018-9aaf-d8b8c09affaa</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>9418f542-9e7d-4f7d-a742-9362a3f77c5c</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>

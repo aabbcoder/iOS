@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>allowCloudBackup</key>
+				<false />
+				<key>allowCloudPhotoLibrary</key>
+				<false />
+				<key>allowCloudPrivateRelay</key>
+				<false />
+				<key>allowPhotoStream</key>
+				<false />
+				<key>allowSharedStream</key>
+				<false />
+				<key>PayloadDisplayName</key>
+				<string>Restrictions</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.applicationaccess.b0559387-5af1-49dc-8cc2-fed96b5dc1b1</string>
+				<key>PayloadType</key>
+				<string>com.apple.applicationaccess</string>
+				<key>PayloadUUID</key>
+				<string>dcfcf716-c804-44eb-b98b-d6c37df5161a</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDisplayName</key>
+		<string>Disable iCloud Photo</string>
+		<key>PayloadIdentifier</key>
+		<string>PC-AB.bea646b9-b275-46b1-8840-8a61cd4d9d28</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>34419a8f-0f9f-4b3a-9d61-f745e96d3e98</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
