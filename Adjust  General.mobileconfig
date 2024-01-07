@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>allowActivityContinuation</key>
+				<false />
+				<key>allowApplePersonalizedAdvertising</key>
+				<false />
+				<key>allowDiagnosticSubmission</key>
+				<false />
+				<key>allowGlobalBackgroundFetchWhenRoaming</key>
+				<false />
+				<key>allowProximitySetupToNewDevice</key>
+				<false />
+				<key>allowSharedDeviceTemporarySession</key>
+				<false />
+				<key>forceLimitAdTracking</key>
+				<true />
+				<key>PayloadDisplayName</key>
+				<string>Restrictions</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.applicationaccess.92112116-fc78-47ec-b195-6410a7220e64</string>
+				<key>PayloadType</key>
+				<string>com.apple.applicationaccess</string>
+				<key>PayloadUUID</key>
+				<string>a62c230d-730b-470b-b58d-b0b755b8bcda</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDisplayName</key>
+		<string>Adjust  General</string>
+		<key>PayloadIdentifier</key>
+		<string>PC-AB.d22b756b-ba6b-4f60-96ef-5907ec13ace9</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>73ea0cf5-6a4e-4e02-a30f-1b8853503a38</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
