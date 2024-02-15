@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadDisplayName</key>
+            <string>OTA Update Restrictions</string>
+            <key>PayloadIdentifier</key>
+            <string>com.example.otarestrictions</string>
+            <key>PayloadType</key>
+            <string>Configuration</string>
+            <key>PayloadUUID</key>
+            <string>1F2E3D4C-5B6A-7D8C-9E0F-A1B2C3D4E5F6</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>PayloadDescription</key>
+            <string>Restricts Over-The-Air software updates</string>
+            <key>AllowOTAUpdate</key>
+            <false/>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>OTA Update Restrictions</string>
+    <key>PayloadIdentifier</key>
+    <string>com.example.configurationprofile</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>6F5E4D3C-2B1A-0F9E-8D7C-6B5A4C3E2F1F</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
